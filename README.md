@@ -1,4 +1,4 @@
-   👋 Hi, I’m Kelvin
+   👋 Hi and welcome,
 
  I am transitioning from Finance to Data Analysis, so I'm currently...
 -  Learning the skills as I go (Python, SQL, JavaScript, Firebase, nodejs, Tableau, Power BI),
